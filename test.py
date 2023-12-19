@@ -16,10 +16,10 @@ window.setWindowIcon(iconCO)
 
 #create a menu bar
 menubar = window.menuBar()
-file_menu =menubar.addMenu("Calculator") # set the menu
+file_menu =menubar.addMenu("Programmer") # set the menu
 
-file_menu =menubar.addMenu("Converter")  # set the menu
-file_menu =menubar.addMenu("Settings")  # set the menu
+#file_menu =menubar.addMenu("Converter")  # set the menu
+#file_menu =menubar.addMenu("Settings")  # set the menu
 
 
 app.exec()
